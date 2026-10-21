@@ -1,0 +1,13 @@
+[LOCUTOR 1]: Bom dia, pessoal. Obrigado por receberem a gente. Hoje a ideia é entender como está o uso do RM e conversar sobre os planos de crescimento que vocês comentaram com o [PESSOA].
+[LOCUTOR 2]: Bom dia. Olha, o RM está funcionando muito bem para a gente. A folha roda redonda, o RH gostou bastante do portal do colaborador. A implantação foi tranquila.
+[LOCUTOR 3]: Sim, e por isso chamamos vocês. A gente vai abrir duas novas unidades no segundo semestre, uma em Curitiba e outra em Joinville. Vamos sair de trezentos para quase quinhentos colaboradores.
+[LOCUTOR 1]: Que ótimo, parabéns pelo crescimento. Então a primeira coisa é dimensionar as licenças para as novas unidades. Vocês pretendem centralizar a folha aqui na matriz?
+[LOCUTOR 3]: Isso, tudo centralizado. E tem um segundo ponto que é o que mais dói hoje: os processos de aprovação. Admissão, férias, reembolso de despesa, tudo isso ainda roda por e-mail e planilha. A aprovação de uma admissão passa por quatro pessoas e às vezes leva uma semana.
+[LOCUTOR 2]: E perde documento. A gente não tem uma gestão de documentos decente, fica tudo em pasta de rede. Com as unidades novas isso vai virar um caos.
+[LOCUTOR 1]: Faz todo sentido. Para esse cenário de fluxo de aprovação e documentos a gente tem o Fluig, que integra nativamente com o RM. O workflow de admissão já vem pronto, e a assinatura eletrônica entra no mesmo fluxo.
+[LOCUTOR 3]: Interessante. A gente tinha olhado uma ferramenta de BPM separada, mas a integração com a folha era o problema.
+[LOCUTOR 1]: É exatamente o ponto forte. Eu sugiro o seguinte como próximos passos: agendar uma demonstração do Fluig com o fluxo de admissão de vocês, e em paralelo eu preparo uma proposta com as licenças adicionais do RM para as duas unidades.
+[LOCUTOR 2]: Perfeito. Só preciso entender o investimento. Temos verba aprovada para o projeto de expansão, mas o budget fecha no fim do mês que vem.
+[LOCUTOR 1]: Consigo te mandar a proposta comercial até quinta-feira, com duas opções de condição comercial, uma anual e uma em três anos com desconto.
+[LOCUTOR 3]: Ótimo. Se a demonstração for boa, a gente consegue aprovar com a diretoria ainda este mês. Pode marcar a demo para terça.
+[LOCUTOR 1]: Fechado. Terça às dez, eu mando o convite. Obrigado, pessoal, excelente conversa.

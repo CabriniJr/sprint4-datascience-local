@@ -1,0 +1,14 @@
+[LOCUTOR 1]: Bom dia. Vamos começar a sessão de hoje do treinamento de compras no Datasul. Hoje o foco é a solicitação de compra e o pedido.
+[LOCUTOR 2]: Bom dia. Estamos em quatro aqui na sala, o pessoal de compras e o almoxarifado.
+[LOCUTOR 1]: Perfeito. Então vou compartilhar a tela. Aqui no menu de compras vocês acessam a solicitação. O primeiro campo é o estabelecimento, depois o requisitante e o centro de custo.
+[LOCUTOR 3]: O centro de custo vem preenchido automático ou a gente digita?
+[LOCUTOR 1]: Ele sugere pelo cadastro do requisitante, mas dá para alterar. Depois vocês informam o item, a quantidade e a data de necessidade. Se o item tiver estoque, o sistema avisa aqui embaixo.
+[LOCUTOR 2]: E quando a solicitação precisa de cotação com três fornecedores?
+[LOCUTOR 1]: Aí ela vai para o processo de cotação. O comprador abre o mapa, registra o preço de cada fornecedor e o sistema destaca o menor preço e o melhor prazo. Vou mostrar um exemplo aqui com três fornecedores de material de escritório.
+[LOCUTOR 3]: Entendi. E depois de aprovada a cotação, gera o pedido direto?
+[LOCUTOR 1]: Gera. Vocês selecionam o fornecedor vencedor e o pedido é criado com as condições de pagamento do cadastro. Se precisar, dá para alterar a condição antes de confirmar.
+[LOCUTOR 4]: E o recebimento no almoxarifado, é na mesma tela?
+[LOCUTOR 1]: Não, o recebimento é no módulo de recebimento físico. Isso a gente vê na sessão de quinta, junto com a conferência da nota fiscal.
+[LOCUTOR 2]: Certo. Pode deixar o material da sessão gravado para quem não veio hoje?
+[LOCUTOR 1]: Posso sim. Vou subir a gravação e o passo a passo no portal. Alguma dúvida até aqui? Então vamos fazer um exercício: cada um cria uma solicitação com dois itens e manda para a cotação.
+[LOCUTOR 3]: Vamos lá.

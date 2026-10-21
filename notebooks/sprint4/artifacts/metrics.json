@@ -1,0 +1,251 @@
+{
+  "risk": {
+    "selected": "Random Forest",
+    "threshold": 0.13769662198555108,
+    "test": {
+      "Naive Bayes": {
+        "modelo": "Naive Bayes",
+        "accuracy": 0.24180967238689546,
+        "precision": 0.03918972593671389,
+        "recall": 0.8996960486322189,
+        "f1": 0.07510784064958133,
+        "roc_auc": 0.6837367360873348,
+        "pr_auc": 0.10481611594495159,
+        "threshold": 0.04514666590229196
+      },
+      "Regressao Logistica": {
+        "modelo": "Regressao Logistica",
+        "accuracy": 0.6664586583463339,
+        "precision": 0.07070405727923627,
+        "recall": 0.7203647416413373,
+        "f1": 0.12876935615321924,
+        "roc_auc": 0.7734590163183195,
+        "pr_auc": 0.2741341228810425,
+        "threshold": 0.13902128422036353
+      },
+      "Random Forest": {
+        "modelo": "Random Forest",
+        "accuracy": 0.6761310452418097,
+        "precision": 0.0714065866420437,
+        "recall": 0.7051671732522796,
+        "f1": 0.12968138624930128,
+        "roc_auc": 0.7767571145110428,
+        "pr_auc": 0.36257594927400844,
+        "threshold": 0.13769662198555108
+      }
+    },
+    "cv": [
+      {
+        "modelo": "Naive Bayes",
+        "accuracy_media": 0.47815678424184965,
+        "accuracy_dp": 0.0025121931488600634,
+        "precision_media": 0.03788338727129511,
+        "precision_dp": 0.004169047487588004,
+        "recall_media": 0.6986677741043706,
+        "recall_dp": 0.03958311748308343,
+        "f1_media": 0.0718621484505088,
+        "f1_dp": 0.007705479551832903,
+        "roc_auc_media": 0.6434672521174306,
+        "roc_auc_dp": 0.02452678090057007,
+        "pr_auc_media": 0.12360982716612857,
+        "pr_auc_dp": 0.021416465938463955
+      },
+      {
+        "modelo": "Regressao Logistica",
+        "accuracy_media": 0.6645977079585346,
+        "accuracy_dp": 0.010893464829005639,
+        "precision_media": 0.05818585663941581,
+        "precision_dp": 0.003653433434769272,
+        "recall_media": 0.6994068529984245,
+        "recall_dp": 0.03278887225121334,
+        "f1_media": 0.10742866930484375,
+        "f1_dp": 0.006564478846608445,
+        "roc_auc_media": 0.7590186289714191,
+        "roc_auc_dp": 0.014781658855531822,
+        "pr_auc_media": 0.256348350660163,
+        "pr_auc_dp": 0.040793139860583943
+      },
+      {
+        "modelo": "Random Forest",
+        "accuracy_media": 0.6564324331554922,
+        "accuracy_dp": 0.01807934574137247,
+        "precision_media": 0.05671182461549287,
+        "precision_dp": 0.0053466063523533395,
+        "recall_media": 0.6975892748451819,
+        "recall_dp": 0.0661687143453839,
+        "f1_media": 0.10489489023690779,
+        "f1_dp": 0.009884474615645426,
+        "roc_auc_media": 0.7553948783843363,
+        "roc_auc_dp": 0.032029913301234975,
+        "pr_auc_media": 0.27491626730000596,
+        "pr_auc_dp": 0.05297922208536961
+      }
+    ]
+  },
+  "opportunity": {
+    "selected": "Random Forest",
+    "threshold": 0.4469350880345747,
+    "test": {
+      "Naive Bayes": {
+        "modelo": "Naive Bayes",
+        "accuracy": 0.7964638585543422,
+        "precision": 0.25048076923076923,
+        "recall": 0.5669205658324266,
+        "f1": 0.3474491497165722,
+        "roc_auc": 0.7734280291465163,
+        "pr_auc": 0.3579183991365142,
+        "threshold": 0.396677064076713
+      },
+      "Regressao Logistica": {
+        "modelo": "Regressao Logistica",
+        "accuracy": 0.8838273530941237,
+        "precision": 0.41097122302158273,
+        "recall": 0.4972796517954298,
+        "f1": 0.4500246184145741,
+        "roc_auc": 0.8101173178317698,
+        "pr_auc": 0.40865152935580895,
+        "threshold": 0.5915177017419921
+      },
+      "Random Forest": {
+        "modelo": "Random Forest",
+        "accuracy": 0.9173166926677067,
+        "precision": 0.5981012658227848,
+        "recall": 0.41131664853101196,
+        "f1": 0.4874274661508704,
+        "roc_auc": 0.8207600858098429,
+        "pr_auc": 0.5428325575740401,
+        "threshold": 0.4469350880345747
+      }
+    },
+    "cv": [
+      {
+        "modelo": "Naive Bayes",
+        "accuracy_media": 0.8603627783065385,
+        "accuracy_dp": 0.00339156123122523,
+        "precision_media": 0.31882301049683454,
+        "precision_dp": 0.01140783253182291,
+        "recall_media": 0.4041267762202259,
+        "recall_dp": 0.033611046549311845,
+        "f1_media": 0.35617752081600845,
+        "f1_dp": 0.018250231970905625,
+        "roc_auc_media": 0.7444390724369135,
+        "roc_auc_dp": 0.015663197134685062,
+        "pr_auc_media": 0.3471028861230017,
+        "pr_auc_dp": 0.0186664768586805
+      },
+      {
+        "modelo": "Regressao Logistica",
+        "accuracy_media": 0.8869713180506417,
+        "accuracy_dp": 0.0004983255752070454,
+        "precision_media": 0.4165736944524631,
+        "precision_dp": 0.02115916048985214,
+        "recall_media": 0.4511897726613901,
+        "recall_dp": 0.02679735530389,
+        "f1_media": 0.4329543362093015,
+        "f1_dp": 0.02068821526293423,
+        "roc_auc_media": 0.7869627872671554,
+        "roc_auc_dp": 0.010500101816795037,
+        "pr_auc_media": 0.39155139542211265,
+        "pr_auc_dp": 0.005624693221091839
+      },
+      {
+        "modelo": "Random Forest",
+        "accuracy_media": 0.9109525850707293,
+        "accuracy_dp": 0.0036807814536543564,
+        "precision_media": 0.5547606256319049,
+        "precision_dp": 0.03063414446874947,
+        "recall_media": 0.36257195089003075,
+        "recall_dp": 0.01955924621782421,
+        "f1_media": 0.43797614819952463,
+        "f1_dp": 0.013959718231785437,
+        "roc_auc_media": 0.7979476147808908,
+        "roc_auc_dp": 0.010258110862342918,
+        "pr_auc_media": 0.48238108681254116,
+        "pr_auc_dp": 0.023939133539491942
+      }
+    ]
+  },
+  "sentiment": {
+    "selected": "Random Forest",
+    "threshold": NaN,
+    "test": {
+      "Naive Bayes": {
+        "modelo": "Naive Bayes",
+        "accuracy": 0.6400416016640665,
+        "precision": 0.4809284720349871,
+        "recall": 0.5193877607731628,
+        "f1": 0.49034936453888917,
+        "roc_auc": 0.7070715752397402,
+        "pr_auc": 0.5047393951092529,
+        "threshold": NaN
+      },
+      "Regressao Logistica": {
+        "modelo": "Regressao Logistica",
+        "accuracy": 0.6486739469578783,
+        "precision": 0.5024468604961471,
+        "recall": 0.5663302723018285,
+        "f1": 0.5203727933996788,
+        "roc_auc": 0.7354515636739297,
+        "pr_auc": 0.532819476846124,
+        "threshold": NaN
+      },
+      "Random Forest": {
+        "modelo": "Random Forest",
+        "accuracy": 0.7809672386895475,
+        "precision": 0.6803062372030232,
+        "recall": 0.5358821988819075,
+        "f1": 0.5787745598424531,
+        "roc_auc": 0.7663253165960021,
+        "pr_auc": 0.6179740549884252,
+        "threshold": NaN
+      }
+    },
+    "cv": [
+      {
+        "modelo": "Naive Bayes",
+        "accuracy_media": 0.6740252883922399,
+        "accuracy_dp": 0.008472116509394468,
+        "precision_media": 0.49764428516256015,
+        "precision_dp": 0.0030230059543650593,
+        "recall_media": 0.5047501421051498,
+        "recall_dp": 0.0035148540367104784,
+        "f1_media": 0.49849132901128584,
+        "f1_dp": 0.002478305027954253,
+        "roc_auc_media": 0.7029026276964357,
+        "roc_auc_dp": 0.0033705086748647825,
+        "pr_auc_media": 0.5126316505906723,
+        "pr_auc_dp": 0.0007077359475301721
+      },
+      {
+        "modelo": "Regressao Logistica",
+        "accuracy_media": 0.653109246534454,
+        "accuracy_dp": 0.007818580997492178,
+        "precision_media": 0.49701977970423167,
+        "precision_dp": 0.005093536167091998,
+        "recall_media": 0.5453670012861586,
+        "recall_dp": 0.008975274734662982,
+        "f1_media": 0.51213861491923,
+        "f1_dp": 0.006146920791149915,
+        "roc_auc_media": 0.7214273195041251,
+        "roc_auc_dp": 0.00628108129094198,
+        "pr_auc_media": 0.5220700616082534,
+        "pr_auc_dp": 0.006569422610678413
+      },
+      {
+        "modelo": "Random Forest",
+        "accuracy_media": 0.7625316932978551,
+        "accuracy_dp": 0.00876802849743341,
+        "precision_media": 0.6406881619389063,
+        "precision_dp": 0.013200872142036664,
+        "recall_media": 0.5094073386048596,
+        "recall_dp": 0.00871303451758277,
+        "f1_media": 0.5463205613085407,
+        "f1_dp": 0.009892342768355147,
+        "roc_auc_media": 0.7449461752188556,
+        "roc_auc_dp": 0.007091293361624589,
+        "pr_auc_media": 0.587845897351733,
+        "pr_auc_dp": 0.010937142394967547
+      }
+    ]
+  }
+}

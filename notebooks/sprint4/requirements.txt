@@ -1,0 +1,10 @@
+pandas>=2.2
+numpy>=1.26
+scikit-learn>=1.5
+scipy>=1.13
+joblib>=1.4
+matplotlib>=3.8
+streamlit>=1.40
+nbformat>=5.10
+nbclient>=0.10
+ipykernel>=6.29

@@ -1,0 +1,14 @@
+[LOCUTOR 1]: Boa tarde, [PESSOA]. Obrigado por abrir a agenda. A ideia hoje é entender a situação do Protheus de vocês depois da atualização de março.
+[LOCUTOR 2]: Boa tarde. Vou ser direto, porque o pessoal da diretoria pediu para eu trazer isso. A gente está bem insatisfeito. Desde a atualização o fechamento fiscal ficou muito lento, o relatório de apuração que rodava em quarenta minutos agora leva quase quatro horas.
+[LOCUTOR 3]: E não é só isso. A gente abriu três chamados no suporte, um deles está aberto há vinte dias sem resposta. Cada vez que ligo, cai num atendente diferente e eu tenho que explicar tudo de novo.
+[LOCUTOR 1]: Entendi. Vocês têm o número dos chamados? Quero escalar isso hoje ainda com o time de sustentação.
+[LOCUTOR 3]: Tenho, te mando por e-mail. Mas sinceramente, escalar eu já ouvi outras vezes. O problema é que no fim do mês o financeiro fica parado esperando o sistema, e a gente já atrasou o envio das obrigações uma vez. Isso gerou multa para nós.
+[LOCUTOR 2]: O que eu preciso deixar claro é o seguinte: o nosso contrato vence em agosto. A diretoria pediu para a gente avaliar outras opções. Recebemos uma apresentação do SAP Business One semana passada e o comercial deles está bem agressivo no preço.
+[LOCUTOR 1]: Eu entendo a frustração, e é justa. Antes de vocês tomarem qualquer decisão, eu gostaria de propor um plano. Primeiro, um diagnóstico de performance do ambiente, que pode ser problema de banco ou de parametrização depois da atualização.
+[LOCUTOR 3]: A gente está em servidor próprio ainda, no nosso data center. O banco é Oracle. O pessoal de infraestrutura daqui é pequeno, são duas pessoas.
+[LOCUTOR 1]: Isso ajuda a explicar. Muitas vezes a lentidão depois de uma atualização vem de estatística de banco desatualizada ou de índice que precisa ser recriado. Posso trazer um especialista para olhar isso com vocês esta semana.
+[LOCUTOR 2]: Tudo bem, mas eu preciso de prazo. Se até o fechamento de junho não estiver resolvido, vai ser difícil defender a renovação aqui dentro. O pessoal não aguenta mais.
+[LOCUTOR 3]: E outra coisa, o treinamento que foi prometido na implantação da folha nunca aconteceu completo. Ficou pela metade e a equipe nova não sabe usar metade das rotinas.
+[LOCUTOR 1]: Anotado. Vou registrar os três pontos: performance do fechamento, os chamados sem retorno e o treinamento pendente. Vou envolver o nosso gerente de Customer Success e volto com um plano por escrito até sexta.
+[LOCUTOR 2]: Combinado. Mas de verdade, a gente precisa ver resultado. Não dá para continuar desse jeito, é um prejuízo todo mês.
+[LOCUTOR 1]: Entendido. Obrigado pela franqueza, [PESSOA]. Até sexta vocês recebem o plano.

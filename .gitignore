@@ -1,0 +1,6 @@
+__pycache__/
+.ipynb_checkpoints/
+# The TOTVS base is never versioned; only the trained models (artifacts/) are.
+data/private/
+notebooks/sprint4/artifacts/segments.pkl
+notebooks/sprint4/artifacts/meetings_oof.csv
